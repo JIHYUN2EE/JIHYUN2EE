@@ -31,14 +31,15 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
           </div>
     </div>
+     <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=JIHYUN2EE&custom_title=JIHYUN2EE's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
+        />  </div> 
+    </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://velog.io/@chiiclaro/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@chiiclaro/posts"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=JIHYUN2EE&custom_title=JIHYUN2EE's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        />  </div> 
-    </div>
+   
     
