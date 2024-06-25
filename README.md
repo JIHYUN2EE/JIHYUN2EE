@@ -31,18 +31,13 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
           </div>
     </div>
-     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
-    | PERIOD | TITLE | SUBJECT |
-    | ------- | ------- | -------|
-    | **2022.06 - .07** | **성신여자대학교 소프트웨어 경진대회** | [**동상 수상**](https://github.com/Leeyoujin00/bookcre-react-express.git) |
- </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://velog.io/@chiiclaro/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@chiiclaro/posts"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-   
-    
+
+## 🏆 Project  
+| PERIOD | TITLE | SUBJECT |
+| ------- | ------- | -------|
+| **2023.12 - 2024.02** | **Google Soloution Challange Top 100 수상작** | [**장애인을 위한 버스 번호 인식 어플 - ComBus**](https://github.com/GDSC-COMBUS) | 
+| **2022.06 - 2022. 07** | **성신여자대학교 소프트웨어 경진 대회 - 동상 수상** | [**온라인 독서 플랫폼 - BookCre**](https://github.com/heoni00/2022-AnalysisCompetition-Subway) |
+
+
+## Contact
+<a href=https://velog.io/@chiiclaro/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@chiiclaro/posts"> </a>
