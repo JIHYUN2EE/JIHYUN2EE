@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | -------|
 | **2023.12 - 2024.02** | **Google Soloution Challange Top 100 수상작** | [**장애인을 위한 버스 번호 인식 어플 - ComBus**](https://github.com/GDSC-COMBUS) | 
-| **2022.06 - 2022. 07** | **성신여자대학교 소프트웨어 경진 대회 - 동상 수상** | [**온라인 독서 플랫폼 - BookCre**](https://github.com/heoni00/2022-AnalysisCompetition-Subway) |
+| **2022.06 - 2022. 07** | **성신여자대학교 소프트웨어 경진 대회 - 동상 수상** | [**온라인 독서 플랫폼 - BookCre**](https://github.com/Leeyoujin00/bookcre-react-express) |
 
 
 ## Contact
